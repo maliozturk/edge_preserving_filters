@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Muhammet Ali Öztürk - [@m_ali2194](https://twitter.com/m_ali2194) - alicsharp@hotmail.com
 
-Project Link: [https://github.com/alicsharp/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/maliozturk/edge_preserving_filters](https://github.com/maliozturk/edge_preserving_filters)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
